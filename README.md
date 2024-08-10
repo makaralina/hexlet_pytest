@@ -1,0 +1,1 @@
+[![hello-world](https://github.com/makaralina/hexlet_pytest/actions/workflows/pyci.yml/badge.svg)](https://github.com/makaralina/hexlet_pytest/actions/workflows/pyci.yml)
